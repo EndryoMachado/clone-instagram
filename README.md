@@ -4,7 +4,7 @@ Clone da interface de login do Instagram.
 Recriar a interface de login do instagram de forma reponsiva.
 
 
-**Status**: Conclúido ✔️
+**Status**: Concluído ✔️
 ## Tecnologias e Ferramentas utilizadas 🛠️
 - Visual Studio Code
 - HTML5
